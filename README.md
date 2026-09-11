@@ -12,13 +12,13 @@
 🔗 **[点击此链接体验真实 AI 助手](https://yuanqi.tencent.com/webim/#/chat/iiXZMe?appid=209836193900782700&experience=true)**
 
 ## 📸 产品界面与运行效果
-![Prompt配置](./images/prompt-config.png)
+![Prompt配置](./prompt-config.png)
 *图1：系统 Prompt 配置（角色设定、风格特点、输出要求与异常兜底约束）*
 
-![网页端运行结果](./images/web1.png)
+![网页端运行结果](./web1.png)
 *图2：网页端运行结果特写，实现 3 秒生成 3 个结构化选题*
 
-![手机端效果](./images/mobile-1.jpg)
+![手机端效果](./mobile-1.jpg)
 *图3：移动端适配效果，方便用户随时随地进行选题生成*
 
 ## 💡 核心产品思考
@@ -28,4 +28,4 @@
 
 ## 📁 项目文件说明
 - `Prompt.md`：核心 System Prompt 设计文档
-- `images/`：产品界面与调试截图
+- 截图文件：产品界面与调试截图)
